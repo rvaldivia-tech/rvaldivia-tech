@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Ronald Valdivia 👋
 
-<!--
-**rvaldivia-tech/rvaldivia-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Supply Chain & Business Intelligence | Lima, Perú**
 
-Here are some ideas to get you started:
+Llevo ~5 años en operaciones de almacén y logística (SAP MM/SD, Oracle, WMS).
+Hoy convierto esa experiencia en análisis de datos con **SQL y Power BI**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Stack
+SQL (SQLite) · Power BI · DAX · Python (pandas) · SAP MM/SD · Oracle · WMS · FIFO/FEFO
+
+## 📊 Proyecto destacado
+**[supply-chain-bi-analytics](https://github.com/rvaldivia-tech/supply-chain-bi-analytics)**
+Tres proyectos de analítica logística con datos simulados:
+- **Rotación de inventario:** rotación de 7.1 veces al año, 52 días de inventario, clasificación ABC.
+- **Nivel de servicio (OTIF):** 77.4% OTIF; el quiebre de stock explica el 27.5% de las fallas.
+- **Productividad de picking:** el turno noche cumple solo el 85.5% de la meta, mientras que el de la mañana la supera con 111.6%.
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/ronald-valdivia)
